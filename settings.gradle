@@ -1,0 +1,2 @@
+include ':genericinputfilter'
+rootProject.name='Generic Input Filter'
